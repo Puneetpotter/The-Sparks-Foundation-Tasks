@@ -15,4 +15,4 @@ This repository contains the tasks that I completed while working as an intern f
 
 ### Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
 
-### Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
+### Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
